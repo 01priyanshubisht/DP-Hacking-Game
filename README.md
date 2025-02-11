@@ -1,25 +1,8 @@
-# NoPixel-Hacking-Simulator
- A web-based project designed to replicate/build similar "hacking" challenges that can be found on the NoPixel 4.0 FiveM Server. Any and all **input** is appreciated greatly; create an [issue](https://github.com/MaximilianAdF/NoPixel-Hacking-Simulator/issues) regarding suggestions, improvements or questions, I will respond as soon as possible.
- > Developed using HTML, CSS, TS (Compiled to JS).
- <br>
+# DP-Hacking-Game
+ A web-based project designed to replicate/build similar "hacking" challenges that can be found on the NoPixel 4.0 FiveM Server.
 
- > [!NOTE]
- > 💬 M4XIAC in [twitch chat](twitch.tv), dm me with questions etc.<br>
- > 🔍 If you found this repository through a streamer, let me know who!
 
- <br>
 
-## 📈 Contributions
-The project [NoPixel-MiniGames-4.0](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) is a completely free-to-use service. As long as I have time and interest I will continue to update and advance different aspects of this project. Whether that's new [MiniGames](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0#StartOfMiniGames) or general bug fixes. If you would like to contribute to this free-to-use project and me, [@MaximilianAdF](https://github.com/MaximilianAdF), in general, you can do it in the following ways:
-  
-   - 🙋 Follow me on GitHub [@MaximilianAdF](https://github.com/MaximilianAdF).
-   - 🌟 Star [this repository](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) (Top Right Corner).
-   - 🌐 Share [this repository](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0) with friends and people interested in NoPixel.
-   - 🔧 Create [issues](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0/issues) with suggestions, improvements or open [pull requests](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0/pulls).
-  # ‎
-  <br>
-
-<a id="#release"></a>
 
 
 ## 🚨 Highscores
@@ -46,12 +29,7 @@ A revamp of the entire no-px structure that now incorporates a universal scoring
    ### Description
    The new Roof Running job that recently popped up on NoPixel 4.0 is built around stealing AC units from the roof's of buildings. Stealing the AC units require a screwdriver which through the above minigame loosens the AC unit and lets the player pick it up. The game consists of a 11x8 grid with 88 differently colored cubes (Red, Green Blue). Cubes of the same color that are connected (Meaning more than 2 cubes are next to one another) can be removed by clicking on them. The remaining cubes fall downwards and align to the left of the screen. Singular cubes of a specific color can not be removed since they're not a pair of more than 2. The game is completed succesfully if all cubes have been removed within the time constraint.
 
-   ### Thoughts
-   There are still some stuff that could be nice to add
-   - Highscore, Current score interface (global?)
-   ---
-  <br>
-
+  
 <a id="Thermite"></a>
 - ## 🔗 [Thermite v.1.0.1](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0/releases/tag/Thermite-v.1.0.1)
    [![image](https://github.com/MaximilianAdF/NoPixel-MiniGames-4.0/assets/63980031/0674273c-43da-4d39-a98e-1443517a4eac)](https://no-px.vercel.app/puzzles/thermite)
